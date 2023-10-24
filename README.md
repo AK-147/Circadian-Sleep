@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="" alt="Banner"/>
+  <img src="https://github.com/AK-147/Circadian-Sleep/blob/main/Sleep%20Banner.png?raw=true" alt="Banner"/>
   
   <h2>:book: Description</h2>
   <ul>
@@ -27,6 +27,6 @@
     to still acknowledge and credit their work. These works would not have been possible without their help and I truly appreciate their hard work and effort.
   </p>
   <h2></h2>
-  <h3>:bridge_at_night::zzz::bed: Enjoy :sleeping_bed::zzz::crescent_moon:</h3>
+  <h3>:cloud::zzz::bed: Enjoy :sleeping_bed::zzz::crescent_moon:</h3>
 </body>
 </html>
