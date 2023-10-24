@@ -9,7 +9,7 @@
   <h2>:book: Description</h2>
   <ul>
     <li>:night_with_stars: A collection of projects that coincidentally pertain to the circadian rhythm and sleep-related phenomena.</li>
-    <li>:zzz: Consists of material for a sleep monitor prototype, a model for sleep cycles, and a systematic review on insomnia.</li>
+    <li>:zzz: Consists of material for a sleep monitor, a model for sleep cycles, and a systematic review on insomnia.</li>
     <li>:books: Organized from works relevant to courses in calculus, psychology, and general engineering practice.</li>
   </ul>
 
