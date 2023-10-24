@@ -8,7 +8,7 @@
   
   <h2>:book: Description</h2>
   <ul>
-    <li>:chart_with_downwards_trend: </li>
+    <li>:chart_with_downwards_trend: A collection of projects that were coincidentally related to the circadian rhythm and similar sleep-related phenomena.</li>
     <li>:speech_balloon: </li>
     <li>:books: </li>
   </ul>
