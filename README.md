@@ -24,7 +24,7 @@
   <h2>:warning: Disclaimers</h2>
   <p>
     These projects were completed with the assistance of various colleagues. To keep them anonymous, their names have been replaced with their initials instead
-    to still acknowledge and credit their work. These works would not have been possible without their help and I truly appreciate their hard work and effort.
+    to still acknowledge and credit their work. These works would not have been possible without their help and their effort is truly appreciated.
   </p>
   <h2></h2>
   <h3>:cloud::zzz::bed: Enjoy :sleeping_bed::zzz::crescent_moon:</h3>
