@@ -14,7 +14,7 @@
   </ul>
 
   <h2>:file_folder: Contents</h2>
-  <p>There are three files within the <strong>Main</strong> file:</p>
+  <p>There are three files within the <strong>Main</strong> folder:</p>
   <ul>
     <li><strong>Circadian Rhythm Model</strong> contains the code and report of a predictive model for sleep cycles.</li>
     <li><strong>Insomnia Systematic Review</strong> has all the components for a systematic review on the topic of insomnia.</li>
